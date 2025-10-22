@@ -1,0 +1,15 @@
+{
+    "Coding": [
+        { "id": 1, "name": ".Net" },
+        { "id": 2, "name": "Java" },
+        { "id": 3, "name": "C++" }
+    ],
+    "Testing": [
+        { "id": 1, "name": "Manual" },
+        { "id": 2, "name": "Automatic" }
+    ],
+    "Other": [
+        { "id": 1, "name": "HR" },
+        { "id": 2, "name": "Manager" }
+    ]
+}
