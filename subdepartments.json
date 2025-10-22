@@ -11,7 +11,9 @@
     ],
     "Other": [
         { "id": 1, "name": "HR" },
-        { "id": 2, "name": "Manager" }
+        { "id": 2, "name": "Manager" },
+          { "id": 3, "name": "CEO" }
     ]
 
 }
+
