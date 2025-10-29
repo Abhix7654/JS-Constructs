@@ -1,0 +1,14 @@
+[
+  {
+    "dept": "Coding",
+    "division": ["Java", "Python", "Cpp", "Csharp"]
+  },
+  {
+    "dept": "Testing",
+    "division": ["Manual", "Automation", "Both"]
+  },
+  {
+    "dept": "Other",
+    "division": ["Finance", "HR"]
+  }
+]
